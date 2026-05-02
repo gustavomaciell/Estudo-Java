@@ -28,9 +28,9 @@ public class TiposPrimitivos {
 
         char o = 111;
         char i = 105;
-        char interrogação = 0x00E1; // valor = '?'
+        char interrogacao = 0x00E1; // valor = '?'
 
-        System.out.println("Tipo char: " + o + i + interrogação);
+        System.out.println("Tipo char: " + o + i + interrogacao);
 
     }
 }
